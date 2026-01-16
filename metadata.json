@@ -1,0 +1,8 @@
+{
+  "name": "Vertice AI Health",
+  "description": "A world-class AI diagnostic support system designed to democratize access to healthcare in resource-limited settings using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
